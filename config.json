@@ -1,5 +1,5 @@
 {
-  "token": "",
+  "token": "064c4a0f-9366-4427-8e3e-0c8fb70ff5b5",
   "endpoint": "https://api-prod.omnivore.app/api/graphql",
   "title": "Omnivore Articles",
   "author": "Omnivore",
@@ -9,8 +9,8 @@
   "addArticleLinkInContent": true,
   "allowImages": true,
   "outputFileName": "output.epub",
-  "maxArticleCount": 15,
-  "searchQuery": "sort:saved-desc",
+  "maxArticleCount": 40,
+  "searchQuery": "in:subscription is:unread",
   "ignoredLabels": ["pdf"],
   "ignoredLinks": ["https://www.youtu", "https://youtu"],
   "emailSupport": false,
