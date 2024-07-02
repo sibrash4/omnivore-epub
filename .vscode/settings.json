@@ -8,5 +8,9 @@
     "MD024": false,
     "MD033": false
   },
-  "markdownlint.ignore": [".github/**"]
+  "markdownlint.ignore": [
+    ".github/**"
+  ],
+  "IDX.aI.enableInlineCompletion": true,
+  "IDX.aI.enableCodebaseIndexing": true
 }
