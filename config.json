@@ -9,7 +9,7 @@
   "addArticleLinkInContent": true,
   "allowImages": true,
   "outputFileName": "saved3.epub",
-  "maxArticleCount": 40,
+  "maxArticleCount": 70,
   "searchQuery": "in:subscription is:unread",
   "ignoredLabels": ["pdf", "aeon", "digest"],
   "ignoredLinks": ["https://www.youtu", "https://youtu"],
